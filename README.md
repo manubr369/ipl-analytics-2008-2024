@@ -2,7 +2,7 @@
 
 An Excel-based analysis of 17 seasons of the Indian Premier League (IPL), built from 1,095 matches and 260,920 ball-by-ball deliveries. The workbook has 10 sheets, including an interactive team dashboard, batting and bowling leaderboards, a phase-wise run rate analysis and a historical win probability model for run chases.
 
-![Dashboard](dashboard.png)
+![Dashboard](Dashboard.png)
 
 ## Objective
 
