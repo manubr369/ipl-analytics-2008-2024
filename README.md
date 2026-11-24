@@ -78,7 +78,6 @@ The model uses more than 27,000 second-innings snapshots taken at every over bou
 ## Author
 
 **Manu B R**
-B.Sc. Physical Science with Computer Science, University of Delhi (2026)
 LinkedIn: [linkedin.com/in/manubr369](https://linkedin.com/in/manubr369)
 GitHub: [github.com/manubr369](https://github.com/manubr369)
 Email: manubaburaj3@gmail.com
